@@ -5,5 +5,5 @@ three
 five
 6
 777
-8
+팔팔
 nine
